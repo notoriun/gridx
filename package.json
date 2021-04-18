@@ -44,9 +44,9 @@
 		}
 	],
 	"dependencies": {
-		"dojo": "1.9.1",
-		"dijit": "1.9.1",
-		"dojox": "1.9.1"
+		"dojo": "1.16.4",
+		"dijit": "1.16.4",
+		"dojox": "1.16.4"
 	},
 	"directories": {
 		"lib": "."
